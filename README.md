@@ -2,6 +2,8 @@
 
 학교 급식(아침·점심·저녁)을 PC 바탕화면에 띄워 주는 Windows 위젯이에요. 급식 정보는 [퀵버미](https://api.quickburmi.cloud)에서 가져와요.
 
+> **지금은 베타 테스트 중이에요.** 처음 실행하면 받은 베타 코드(`XXXX-XXXX-XXXX`)를 입력해야 써요. 코드 1개는 PC 1대에서만 쓸 수 있고, 같은 PC에서는 다시 설치해도 같은 코드로 돼요. 정식 버전(v1.0.0)부터는 코드 없이 쓸 수 있어요.
+
 ## 내려받기
 
 **[최신 버전 내려받기 →](https://github.com/LeeDoYeol/quickburmi-meal-widget-releases/releases/latest)**
